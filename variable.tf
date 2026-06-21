@@ -1,1 +1,2 @@
 variable "rgdetails" {}
+variable "stgdetails" {}
