@@ -1,1 +1,1 @@
-variable "subnetdetails" {}
+variable "pipdetails" {}
