@@ -1,2 +1,1 @@
-variable "rgdetails" {}
-variable "stgdetails" {}
+variable "vnetdetails" {}

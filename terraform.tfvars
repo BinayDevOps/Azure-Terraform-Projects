@@ -1,16 +1,8 @@
-rgdetails = {
-  rg1 = {
-    name     = "rg-binay"
-    location = "centralindia"
-  }
-}
-stgdetails = {
-  stg1 = {
-    name                     = "stg01binay"
-    resource_group_name      = "rg-binay"
-    location                 = "centralindia"
-    account_tier             = "Standard"
-    account_replication_type = "GRS"
-
+vnetdetails = {
+  Vnet1 = {
+    name                = "vnet-dev-centralindia-001"
+    location            = "centralindia"
+    resource_group_name = "rg-binay"
+    address_space       = ["10.0.0.0/16"]
   }
 }
