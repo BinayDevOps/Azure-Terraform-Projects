@@ -1,1 +1,1 @@
-variable "vnetdetails" {}
+variable "subnetdetails" {}
